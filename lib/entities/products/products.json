@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "T-Shirt",
+    "price": 100,
+    "image": "https://www.example.com/product1.jpg",
+    "description": "A qualtiy t-shirt made of 100% cotton.",
+    "category": 1
+  },
+  {
+    "id": 2,
+    "title": "Longsleeve Shirt",
+    "price": 200,
+    "image": "https://www.example.com/product2.jpg",
+    "description": "A qualtiy longsleeve shirt made of 100% cotton.",
+    "category": 1
+  },
+  {
+    "id": 3,
+    "title": "Trowser",
+    "price": 300,
+    "image": "https://www.example.com/product3.jpg",
+    "description": "A qualtiy trowser made from finest cotton.",
+    "category": 2
+  },
+  {
+    "id": 4,
+    "title": "Shorts",
+    "price": 400,
+    "image": "https://www.example.com/product4.jpg",
+    "description": "Super cool short pants.",
+    "category": 2
+  }
+]
